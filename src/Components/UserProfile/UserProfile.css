@@ -1,0 +1,11 @@
+.user-profile-container {
+    background-color: #00b8ff !important;
+}
+
+.user-profil-btn {
+    color: black !important
+}
+
+.user-profil-btn:hover {
+    background-color: #3496ff;
+}

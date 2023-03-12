@@ -1,0 +1,10 @@
+.navbar-container {
+    font-weight: bold;
+}
+
+.navbar-container__link:hover {
+    border-radius: 0.5rem;
+    color: black;
+    background-color: #3496ff;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}

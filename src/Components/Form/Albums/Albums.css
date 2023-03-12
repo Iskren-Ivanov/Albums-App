@@ -1,0 +1,21 @@
+.albums-container {
+    padding-bottom: 20px;
+}
+
+.albums-container__nav-link {
+    width: 100%;
+    background: #007bff;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.albums-container__nav-link:hover {
+    color: black;
+    background: #79b6f8;
+}
+
+.albums-container__nav-item {
+    padding: 5px 0 !important;
+    width: 100%;
+}

@@ -1,0 +1,43 @@
+.app {
+  text-align: center;
+  display: block;
+  margin: 0 20% 0 20%;
+}
+
+/* .app-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.app-link {
+  color: #61dafb;
+} */
+
+.form-control {
+  background-image: none !important;
+}
+
+.error-text-input {
+  text-align: center;
+  color: red;
+  padding-top: 15px;
+}
+
+.input-error {
+  border: 3px solid rgb(224, 29, 29) !important;
+}
+
+button:disabled, button:disabled:hover, button:disabled:active {
+  color: #292929;
+  cursor: not-allowed;
+}
+
+.btn {
+  color: black;
+}

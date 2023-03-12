@@ -1,0 +1,12 @@
+.modal-container {
+    padding: 22px;
+}
+
+.modal-container__btns-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-container__btns-wrapper :first-child {
+    margin-bottom: 5px;
+}
